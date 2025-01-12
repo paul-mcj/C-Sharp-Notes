@@ -1,0 +1,14 @@
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\bin\Debug\net8.0\Fundamentals.exe
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\bin\Debug\net8.0\Fundamentals.deps.json
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\bin\Debug\net8.0\Fundamentals.runtimeconfig.json
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\bin\Debug\net8.0\Fundamentals.dll
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\bin\Debug\net8.0\Fundamentals.pdb
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfo.cs
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.dll
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\refint\Fundamentals.dll
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.pdb
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.genruntimeconfig.cache
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\ref\Fundamentals.dll
