@@ -12,3 +12,4 @@ C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\r
 C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.pdb
 C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.genruntimeconfig.cache
 C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\ref\Fundamentals.dll
+C:\Users\Paul McJannet\Documents\Web Dev\C_Sharp\Fundamentals\obj\Debug\net8.0\Fundamentals.sourcelink.json
